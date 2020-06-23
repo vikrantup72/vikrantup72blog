@@ -6,7 +6,7 @@ excerpt: >-
   miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
   meters).
 date: '2020-06-23'
-thumb_img_path: images/1__ffpkcwd_kwqmc7oevcrbq.jpg
+thumb_img_path: images/charming-triceratops.jpg
 content_img_path: images/8.jpg
 template: post
 ---
