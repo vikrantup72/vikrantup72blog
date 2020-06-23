@@ -1,10 +1,9 @@
 ---
 title: PHP
 excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+  PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open
+  source general-purpose scripting language that is especially suited for web
+  development and can be embedded into HTML.
 date: '2019-03-24'
 thumb_img_path: images/2.jpg
 content_img_path: images/2.jpg
