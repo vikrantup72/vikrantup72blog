@@ -1,5 +1,5 @@
 ---
-title: C(MOTHER LANGUAGE)
+title: C LANGUAGE
 subtitle: A intresting tale about Surfing
 excerpt: >-
   Surfing is a surface water sport in which the wave rider, referred to as a
