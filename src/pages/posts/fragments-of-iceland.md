@@ -8,7 +8,7 @@ excerpt: >-
   and rapid application development in many areas on most platforms.
 date: '2020-06-23'
 thumb_img_path: images/intro.jpg
-content_img_path: images/7.jpg
+content_img_path: images/intro.jpg
 template: post
 ---
 
