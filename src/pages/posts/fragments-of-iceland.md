@@ -1,9 +1,11 @@
 ---
 title: Python
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  The Python Tutorial Python is an easy to learn, powerful programming language.
+  It has efficient high-level data structures and a simple but effective
+  approach to object-oriented programming. Python’s elegant syntax and dynamic
+  typing, together with its interpreted nature, make it an ideal language for
+  scripting and rapid application development in many areas on most platforms.
 date: '2020-06-23'
 thumb_img_path: images/intro.jpg
 content_img_path: images/7.jpg
