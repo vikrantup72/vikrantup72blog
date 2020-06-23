@@ -2,9 +2,10 @@
 title: C LANGUAGE
 subtitle: C language also known is mother language
 excerpt: >-
-  Surfing is a surface water sport in which the wave rider, referred to as a
-  surfer, rides on the forward or deep face of a moving wave, which is usually
-  carrying the surfer towards the shore.
+  C is a general-purpose, procedural computer programming language supporting
+  structured programming, lexical variable scope, and recursion, with a static
+  type system. By design, C provides constructs that map efficiently to typical
+  machine instructions
 date: '2020-06-23'
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
