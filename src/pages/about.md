@@ -5,7 +5,7 @@ img_path: images/groovy-strawberry.jpg
 template: page
 ---
 **I am VIKRANT,** A Passionate Software Developer,Entrepreneur and Coder. I love to play with coding, building software, and focusing on learning new technologies. Currently I am pursuing MCA from UNITED INSTITUTE OF MANAGEMENT.
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Vikrantup72</cite>
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
