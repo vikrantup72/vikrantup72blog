@@ -9,6 +9,12 @@ sections:
       A Passionate Software Developer,Entrepreneur and Coder. I love to play
       with coding, building software, and focusing on learning new technologies.
       Currently I am pursuing MCA from UNITED INSTITUTE OF MANAGEMENT.
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        type: link
+        icon_class: lorem-ipsum
+        new_window: false
   - section_id: about
     type: section_content
     title: About
