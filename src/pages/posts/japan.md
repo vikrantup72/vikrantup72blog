@@ -6,7 +6,7 @@ excerpt: >-
   development and can be embedded into HTML.
 date: '2020-06-23'
 thumb_img_path: images/1.jpg
-content_img_path: images/spectacular-europa.jpg
+content_img_path: images/1.jpg
 template: post
 ---
 >**What can PHP do?**
