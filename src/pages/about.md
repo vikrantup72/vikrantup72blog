@@ -5,7 +5,7 @@ img_path: images/groovy-strawberry.jpg
 template: page
 ---
 **I am VIKRANT,** A Passionate Software Developer,Entrepreneur and Coder. I love to play with coding, building software, and focusing on learning new technologies. Currently I am pursuing MCA from UNITED INSTITUTE OF MANAGEMENT.
-> SKILL SET
+> Skill Set
 <cite>  </cite>
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Vikrantup72</cite>
 
