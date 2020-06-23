@@ -18,5 +18,10 @@ sections:
       - label: View Blog
         url: blog/index.html
         type: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        type: link
+        icon_class: lorem-ipsum
+        new_window: false
 template: advanced
 ---
