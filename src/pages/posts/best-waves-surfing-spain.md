@@ -1,6 +1,6 @@
 ---
 title: C LANGUAGE
-subtitle: A intresting tale about Surfing
+subtitle: C language also known is mother language
 excerpt: >-
   Surfing is a surface water sport in which the wave rider, referred to as a
   surfer, rides on the forward or deep face of a moving wave, which is usually
