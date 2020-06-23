@@ -5,7 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Vikrant Upadhyay.'
-    content: ''
+    content: >-
+      I am VIKRANT, A Passionate Software Developer,Entrepreneur and Coder. I
+      love to play with coding, building software, and focusing on learning new
+      technologies. Currently I am pursuing MCA from UNITED INSTITUTE OF
+      MANAGEMENT.
   - section_id: about
     type: section_content
     title: About
