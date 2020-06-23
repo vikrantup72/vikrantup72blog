@@ -6,7 +6,7 @@ excerpt: >-
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 date: '2020-06-23'
 thumb_img_path: images/object-oriented-programming.jpg
-content_img_path: images/3.jpg
+content_img_path: images/festive-spinach.jpg
 template: post
 ---
 
