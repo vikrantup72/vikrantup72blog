@@ -6,7 +6,7 @@ template: page
 ---
 **I am VIKRANT,** A Passionate Software Developer,Entrepreneur and Coder. I love to play with coding, building software, and focusing on learning new technologies. Currently I am pursuing MCA from UNITED INSTITUTE OF MANAGEMENT.
 > Skill Set
-<cite> My work experience comprised of various skills set like Android Apps Development with integrating APIs, Building dynamic and responsive websites and so on! I have gained further knowledge aside from my experience,through following: </cite>
+<cite> My work experience comprised of various skills set like Android Apps Development with integrating APIs, Building dynamic and responsive websites and so on! I have gained further knowledge aside from my experience,through following: 
 ✔ Object Oriented Programming (OOP).
 ✔ Experience on Android – Retrofit2, Data Binding, Room, Google Map, Layout and Design, NFC Read and Write.
 ✔ Expertise in PHP (Node.js, REST API, HTML, CSS, Bootstrap, JS, WordPress, Laravel, jQuery).
@@ -15,7 +15,7 @@ template: page
 ✔ Experience on Data Access object (DAO), Crud Repository and Unit testing in java framework jUnit.
 ✔ Experience on RESTful API. Knowledge on Web API.
 ✔ Familiar with Version Controlling System GitHub and bitbucket.
-✔ Language proficiency: English, Hindi
+✔ Language proficiency: English, Hindi </cite>
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Vikrantup72</cite>
 
