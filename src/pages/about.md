@@ -8,7 +8,7 @@ template: page
 > Skill Set
 <cite> My work experience comprised of various skills set like Android Apps Development with integrating APIs, Building dynamic and responsive websites and so on! I have gained further knowledge aside from my experience,through following: </cite>
 
->>The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Vikrantup72</cite>
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Vikrantup72</cite>
 
 As a hobby, vikrantup72 authors the most influential design blog in pratapgarh with over 100,000 page views a month. He lives in uttar pradesh .
 
