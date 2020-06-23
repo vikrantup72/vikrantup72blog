@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-img_path: images/855802208_42209.jpg
+img_path: images/groovy-strawberry.jpg
 template: page
 ---
 
