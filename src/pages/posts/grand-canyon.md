@@ -1,10 +1,9 @@
 ---
 title: Java
 excerpt: >-
-  The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-  Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18
-  miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
-  meters).
+  Java is a general-purpose programming language that is class-based,
+  object-oriented, and designed to have as few implementation dependencies as
+  possible
 date: '2020-06-23'
 thumb_img_path: images/charming-triceratops.jpg
 content_img_path: images/super-chili.jpg
