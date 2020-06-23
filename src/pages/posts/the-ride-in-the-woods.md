@@ -1,6 +1,6 @@
 ---
 title: OOPS Concept
-subtitle: A cautionary tale about riding
+subtitle: 'Object Oriented Programming '
 excerpt: >-
   Object-oriented programming is a programming paradigm based on the concept of
   "objects", which can contain data, in the form of fields, and code, in the
