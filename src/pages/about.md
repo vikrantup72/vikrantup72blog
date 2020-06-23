@@ -9,13 +9,13 @@ template: page
 <cite> My work experience comprised of various skills set like Android Apps Development with integrating APIs, Building dynamic and responsive websites and so on! I have gained further knowledge aside from my experience,through following: </cite>
 <cite>✔ Object Oriented Programming (OOP).</cite>
 <cite>✔ Experience on Android – Retrofit2, Data Binding, Room, Google Map, Layout and Design, NFC Read and Write.</cite>
-✔ Expertise in PHP (Node.js, REST API, HTML, CSS, Bootstrap, JS, WordPress, Laravel, jQuery).
-✔ Most used language for Programming: Java, PHP, ASP.NET (MVC), C, C++.
-✔ Experience on building professional Application Spring Boot with java persistence API (JPA)
-✔ Experience on Data Access object (DAO), Crud Repository and Unit testing in java framework jUnit.
-✔ Experience on RESTful API. Knowledge on Web API.
-✔ Familiar with Version Controlling System GitHub and bitbucket.
-✔ Language proficiency: English, Hindi </cite>
+<cite>✔ Expertise in PHP (Node.js, REST API, HTML, CSS, Bootstrap, JS, WordPress, Laravel, jQuery).</cite>
+<cite>✔ Most used language for Programming: Java, PHP, ASP.NET (MVC), C, C++.</cite>
+<cite>✔ Experience on building professional Application Spring Boot with java persistence API (JPA)</cite>
+<cite>✔ Experience on Data Access object (DAO), Crud Repository and Unit testing in java framework jUnit.</cite>
+<cite>✔ Experience on RESTful API. Knowledge on Web API.</cite>
+<cite>✔ Familiar with Version Controlling System GitHub and bitbucket.</cite>
+<cite>✔ Language proficiency: English, Hindi </cite>
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Vikrantup72</cite>
 
