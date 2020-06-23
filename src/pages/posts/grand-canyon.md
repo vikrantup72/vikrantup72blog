@@ -7,7 +7,7 @@ excerpt: >-
   meters).
 date: '2020-06-23'
 thumb_img_path: images/charming-triceratops.jpg
-content_img_path: images/8.jpg
+content_img_path: images/super-chili.jpg
 template: post
 ---
 
