@@ -7,7 +7,7 @@ excerpt: >-
   type system. By design, C provides constructs that map efficiently to typical
   machine instructions
 date: '2020-06-23'
-thumb_img_path: images/4.jpg
+thumb_img_path: images/C-Programming-online-training-nareshit.jpg
 content_img_path: images/4.jpg
 template: post
 ---
