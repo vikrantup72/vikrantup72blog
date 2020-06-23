@@ -2,8 +2,11 @@
 title: OOPS Concept
 subtitle: A cautionary tale about riding
 excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+  Object-oriented programming is a programming paradigm based on the concept of
+  "objects", which can contain data, in the form of fields, and code, in the
+  form of procedures. A feature of objects is an object's procedures that can
+  access and often modify the data fields of the object with which they are
+  associated.
 date: '2020-06-23'
 thumb_img_path: images/object-oriented-programming.jpg
 content_img_path: images/festive-spinach.jpg
