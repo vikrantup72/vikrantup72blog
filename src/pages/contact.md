@@ -18,7 +18,7 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - type: select
+      - type: number
         name: subject
         label: Subject
         default_value: Please select
