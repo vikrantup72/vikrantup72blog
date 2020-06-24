@@ -20,7 +20,7 @@ sections:
         is_required: true
       - type: number
         name: Number
-        label: Subject
+        label: Number
         default_value: Please select
         options:
           - Error on the site
