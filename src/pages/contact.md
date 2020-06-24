@@ -19,7 +19,7 @@ sections:
         default_value: Your email address
         is_required: true
       - type: number
-        name: Number
+        name: Mobile Number
         label: Number
         default_value: Your mobile number
         options:
