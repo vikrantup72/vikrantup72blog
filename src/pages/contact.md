@@ -23,7 +23,6 @@ sections:
         label: Mobile Number
         default_value: Your mobile number
         options:
-          - Error on the site
           - Sponsorship
           - Other
         is_required: true
