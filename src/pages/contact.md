@@ -20,7 +20,7 @@ sections:
         is_required: true
       - type: number
         name: Mobile Number
-        label: Number
+        label: Mobile Number
         default_value: Your mobile number
         options:
           - Error on the site
