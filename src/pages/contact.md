@@ -18,7 +18,7 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - type: number
+      - type: tel
         name: Mobile Number
         label: Mobile Number
         default_value: Your mobile number
