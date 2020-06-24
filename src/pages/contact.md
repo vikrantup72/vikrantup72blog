@@ -22,8 +22,7 @@ sections:
         name: Mobile Number
         label: Mobile Number
         default_value: Your mobile number
-        options:
-          - Sponsorship
+        options: []
         is_required: true
       - type: textarea
         name: message
