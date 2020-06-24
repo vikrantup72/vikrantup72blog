@@ -21,7 +21,7 @@ sections:
       - type: number
         name: Number
         label: Number
-        default_value: Please select
+        default_value: +91*******
         options:
           - Error on the site
           - Sponsorship
