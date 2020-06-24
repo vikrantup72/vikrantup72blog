@@ -21,7 +21,7 @@ sections:
       - type: number
         name: Number
         label: Number
-        default_value: +91*******
+        default_value: Your mobile number
         options:
           - Error on the site
           - Sponsorship
