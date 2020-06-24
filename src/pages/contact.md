@@ -24,7 +24,6 @@ sections:
         default_value: Your mobile number
         options:
           - Sponsorship
-          - Other
         is_required: true
       - type: textarea
         name: message
