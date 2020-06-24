@@ -18,16 +18,16 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - type: textarea
-        name: message
-        label: Message
-        default_value: Your message
-        is_required: true
       - type: tel
         name: Mobile Number
         label: Mobile Number
         default_value: Your mobile number
         options: []
+        is_required: true
+      - type: textarea
+        name: message
+        label: Message
+        default_value: Your message
         is_required: true
       - type: checkbox
         name: consent
