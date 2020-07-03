@@ -1,5 +1,5 @@
 ---
-title: NodeJS
+title: Blog
 template: blog
 excerpt: ''
 ---
