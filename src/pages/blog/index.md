@@ -1,5 +1,5 @@
 ---
 title: Blog
 template: blog
-excerpt: ''
+excerpt: abcd
 ---
