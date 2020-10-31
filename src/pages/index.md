@@ -24,7 +24,7 @@ sections:
     actions:
       - label: View More
         url: gallary
-        type: action
+        type: button
         icon_class: lorem-ipsum
         new_window: false
     type: section_posts
