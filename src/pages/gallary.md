@@ -5,7 +5,6 @@ date: '2020-10-31'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
-thumb_img_path: images/Screenshot (35)f.png
 content_img_path: images/happy-spruce.png
 ---
 ## Lorem ipsum
