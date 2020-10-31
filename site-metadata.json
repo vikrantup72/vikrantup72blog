@@ -25,6 +25,13 @@
                 "type": "link"
             },
             {
+                "label": "GALLARY",
+                "url": "gallary",
+                "type": "link",
+                "icon_class": "gallary",
+                "new_window": false
+            },
+            {
                 "label": "Contact",
                 "url": "/contact/",
                 "type": "link"
