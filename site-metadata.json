@@ -35,13 +35,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "type": "link"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
-                "type": "action",
-                "icon_class": "lorem-ipsum",
-                "new_window": false
             }
         ],
         "has_social": true,
