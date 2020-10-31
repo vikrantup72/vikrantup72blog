@@ -27,11 +27,6 @@ sections:
         type: button
         icon_class: Button
         new_window: false
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        type: action
-        icon_class: lorem-ipsum
-        new_window: false
     type: section_posts
 template: advanced
 ---
