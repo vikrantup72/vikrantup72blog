@@ -30,7 +30,7 @@
                 "type": "link"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "",
                 "url": "lorem-ipsum",
                 "type": "action",
                 "icon_class": "lorem-ipsum",
