@@ -20,7 +20,7 @@ sections:
         type: button
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    posts_number: 3
+    posts_number: 4
     actions:
       - label: View More
         url: gallary
