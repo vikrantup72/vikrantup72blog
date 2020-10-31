@@ -33,7 +33,7 @@
                 "label": "GALLARY",
                 "url": "gallary",
                 "type": "action",
-                "icon_class": "lorem-ipsum",
+                "icon_class": "gallary",
                 "new_window": false
             }
         ],
