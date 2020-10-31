@@ -25,7 +25,7 @@ sections:
       - label: View More
         url: gallary
         type: button
-        icon_class: lorem-ipsum
+        icon_class: ''
         new_window: false
     type: section_posts
 template: advanced
