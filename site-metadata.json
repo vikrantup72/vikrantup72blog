@@ -27,7 +27,7 @@
             {
                 "label": "GALLARY",
                 "url": "gallary",
-                "type": "icon",
+                "type": "link",
                 "icon_class": "gallary",
                 "new_window": false
             },
