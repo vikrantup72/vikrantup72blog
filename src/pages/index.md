@@ -21,7 +21,12 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     posts_number: 0
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        type: action
+        icon_class: lorem-ipsum
+        new_window: false
     type: section_posts
 template: advanced
 ---
