@@ -18,15 +18,5 @@ sections:
       - label: View Blog
         url: blog/index.html
         type: button
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    posts_number: 4
-    actions:
-      - label: View More
-        url: gallary
-        type: button
-        icon_class: Button
-        new_window: false
-    type: section_posts
 template: advanced
 ---
