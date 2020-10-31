@@ -1,6 +1,6 @@
 ---
 title: GALLARY
-subtitle: Vikrantup72
+subtitle: ''
 date: '2020-10-31'
 excerpt: ''
 canonical_url: lorem-ipsum
