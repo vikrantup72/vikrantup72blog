@@ -23,7 +23,7 @@ sections:
     posts_number: 0
     actions:
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: gallary
         type: action
         icon_class: lorem-ipsum
         new_window: false
