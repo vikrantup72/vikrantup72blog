@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: GA
 subtitle: lorem-ipsum
 date: '2020-10-31'
 excerpt: lorem-ipsum
