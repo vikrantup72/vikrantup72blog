@@ -25,7 +25,7 @@ sections:
       - label: View More
         url: gallary
         type: button
-        icon_class: ''
+        icon_class: Button
         new_window: false
     type: section_posts
 template: advanced
